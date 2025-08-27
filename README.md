@@ -6,7 +6,7 @@
 - 🌱 I’m currently studding Typescript, Golang and bussines management
 - 📫 email me: rcchristiane@gmail.com
 - 😄 Pronouns: Sr, mi Señor, Amo, Dueño, Papito
-- ⚡ Fun fact: I'm makieng experimets about Mexican-oriental food fusion
+- ⚡ Fun fact: I'm making experimets about Mexican-oriental food fusion
 
 ## Skills
 
