@@ -2,6 +2,7 @@
 
 ## About Me
 
+- You can call me Edo or Lalo
 - 🌱 I’m currently studding Typescript, Golang and bussines management
 - 📫 email me: rcchristiane@gmail.com
 - 😄 Pronouns: Sr, mi Señor, Amo, Dueño, Papito
