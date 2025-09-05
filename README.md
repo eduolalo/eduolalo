@@ -11,7 +11,7 @@
 
 ## GitHub Stats
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduolalo&show_icons=true&theme=radical)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduolalo&show_icons=true&theme=shades-of-purple)
 
 ## Languages
 
